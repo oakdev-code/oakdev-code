@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/oakdev-code/oakdev-code/main/banner.svg" alt="Lucas Carvalho banner" width="100%" />
+</p>
+
 # Lucas Carvalho
 
 > Desenvolvedor Full Stack com 7+ anos de experiência em desenvolvimento de sistemas, automação de processos e integração de soluções para negócios.
