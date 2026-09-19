@@ -4,9 +4,9 @@
 
 # Lucas Carvalho
 
-> Desenvolvedor Full Stack com 7+ anos de experiência em desenvolvimento de sistemas, automação de processos e integração de soluções para negócios.
+> Desenvolvedor Full Stack com 7+ anos de experiência em desenvolvimento de sistemas, automação, IA aplicada e implantação de soluções em ambientes reais.
 
-Analista de Sistemas | Full Stack Developer | PHP | JavaScript | SQL | APIs | Automação | Logística
+Analista de Sistemas | Full Stack Developer | IA e Automação | PHP | JavaScript | SQL | Docker | APIs | Logística
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lucas-carvalho-726b97165/" target="_blank">
@@ -14,6 +14,7 @@ Analista de Sistemas | Full Stack Developer | PHP | JavaScript | SQL | APIs | Au
   </a>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -22,18 +23,22 @@ Analista de Sistemas | Full Stack Developer | PHP | JavaScript | SQL | APIs | Au
 
 ## Sobre mim
 
-Sou desenvolvedor e analista de sistemas com foco em criação, manutenção e evolução de soluções que resolvem problemas reais de negócio. Minha atuação combina desenvolvimento de software, automação, integração entre sistemas e suporte técnico para operações críticas.
+Sou desenvolvedor e analista de sistemas com foco em criar soluções que resolvem problemas reais de negócio e entregam valor em produção. Minha atuação combina desenvolvimento full stack, automação de processos, integração entre sistemas, IA aplicada e implantação de sistemas em ambientes operacionais.
 
-Atualmente trabalho na área de logística, desenvolvendo e sustentando aplicações que impactam diretamente processos operacionais e a eficiência da operação.
+Atualmente trabalho na área de logística, atuando em análise, desenvolvimento, suporte, integração e manutenção de soluções que impactam diretamente a operação e a eficiência dos processos.
+
+Especialista em uso de IA para desenvolvimento, automação e produtividade, com experiência prática em criação de skills, agentes e fluxos inteligentes com Claude Code, Gemini, ChatGPT e ferramentas de automação de trabalho.
 
 ## Experiência
 
 - Desenvolvimento de aplicações web e APIs
-- Automação de processos internos e de operação
+- Automação de processos internos e operacionais
+- Criação de skills, workflows e agentes com IA
 - Integração entre sistemas e serviços externos
-- Manutenção e evolução de sistemas existentes
+- Implantação e configuração de soluções para clientes
+- Manutenção, evolução e sustentação de sistemas em produção
 - Análise de requisitos, solução de problemas e entrega de melhorias
-- Acompanhamento de implantação e suporte a usuários e clientes
+- Suporte técnico e acompanhamento de ambiente em operação
 
 ## Stack principal
 
@@ -41,15 +46,29 @@ Atualmente trabalho na área de logística, desenvolvendo e sustentando aplicaç
 - JavaScript
 - HTML e CSS
 - SQL
+- Docker
 - APIs REST
 - Git e GitHub
+- IA aplicada ao desenvolvimento e automação
 - Experiência em desenvolvimento full stack e soluções de negócio
+
+## Implantação e entrega para clientes
+
+Trabalho com a entrega de soluções em ambientes reais, com foco em estabilidade, documentação, manutenção e operação contínua. Isso inclui:
+
+- configuração e implantação de sistemas em ambientes locais e de cliente
+- ajustes para uso em produção
+- integração entre aplicações e serviços
+- automação de processos para reduzir retrabalho e aumentar eficiência
+- suporte para manutenção e evolução após a entrega
+
+Um grande parte dos projetos em que atuo são soluções desenvolvidas para o contexto empresarial e operacional, por isso muitos deles não são publicados publicamente por questão de confidencialidade e privacidade dos clientes.
 
 ## Perfil profissional
 
-Meu objetivo é construir soluções simples, confiáveis e de alto impacto, que ajudem negócios a operar com mais eficiência, reduzir retrabalho e melhorar processos reais.
+Meu objetivo é construir soluções simples, confiáveis, escaláveis e de alto impacto, que ajudem negócios a operar com mais eficiência, reduzir retrabalho e melhorar processos reais.
 
-Valorizo qualidade, organização, clareza na solução de problemas e foco em entregar valor de forma prática e sustentável.
+Valorizo qualidade, organização, clareza na solução de problemas e foco em entregar valor de forma prática, sustentável e profissional.
 
 ## Estatísticas
 
