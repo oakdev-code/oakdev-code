@@ -62,5 +62,6 @@ Valorizo qualidade, organização, clareza na solução de problemas e foco em e
 Disponível para projetos, parcerias e oportunidades de crescimento profissional.
 
 - LinkedIn: [Lucas Carvalho](https://www.linkedin.com/in/lucas-carvalho-726b97165/)
+- E-mail: [luccaosilva10@gmail.com](mailto:luccaosilva10@gmail.com)
 - GitHub: [@oakdev-code](https://github.com/oakdev-code)
 - Repositório principal: [oakdev-code](https://github.com/oakdev-code/oakdev-code)
