@@ -12,6 +12,9 @@ Analista de Sistemas | Full Stack Developer | IA e Automação | PHP | JavaScrip
   <a href="https://www.linkedin.com/in/lucas-carvalho-726b97165/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://oakdev-code.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-F04452?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Oakdev" />
+  </a>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -85,6 +88,7 @@ Valorizo qualidade, organização, clareza na solução de problemas e foco em e
 Disponível para projetos, parcerias e oportunidades de crescimento profissional.
 
 - LinkedIn: [Lucas Carvalho](https://www.linkedin.com/in/lucas-carvalho-726b97165/)
+- Portfólio: [Oakdev](https://oakdev-code.github.io/portfolio/)
 - E-mail: [luccaosilva10@gmail.com](mailto:luccaosilva10@gmail.com)
 - GitHub: [@oakdev-code](https://github.com/oakdev-code)
 - Repositório principal: [oakdev-code](https://github.com/oakdev-code/oakdev-code)
