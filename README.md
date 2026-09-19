@@ -2,9 +2,12 @@
 
 > Desenvolvedor Full Stack com 7+ anos de experiência em desenvolvimento de sistemas, automação de processos e integração de soluções para negócios.
 
-Analista de Sistemas | PHP | JavaScript | SQL | APIs | Automação | Logística
+Analista de Sistemas | Full Stack Developer | PHP | JavaScript | SQL | APIs | Automação | Logística
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/lucas-carvalho-726b97165/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -58,5 +61,6 @@ Valorizo qualidade, organização, clareza na solução de problemas e foco em e
 
 Disponível para projetos, parcerias e oportunidades de crescimento profissional.
 
+- LinkedIn: [Lucas Carvalho](https://www.linkedin.com/in/lucas-carvalho-726b97165/)
 - GitHub: [@oakdev-code](https://github.com/oakdev-code)
 - Repositório principal: [oakdev-code](https://github.com/oakdev-code/oakdev-code)
